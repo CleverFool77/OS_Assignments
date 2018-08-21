@@ -1,4 +1,5 @@
 # OS_Assignments
 
-Consists of Sem-3 IOPS332C lab assignments
+> **Note:** Sem 3 **IOPS332C** Lab Assignments on xv6
+
 
